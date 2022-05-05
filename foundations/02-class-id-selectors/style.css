@@ -1,0 +1,16 @@
+.odds{
+  background-color:rgb(223, 124, 124);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#specific-id {
+  color: blue;
+  font-size: 36px;
+}
+.fancy {
+  font-size: 24px;
+}
+#id{
+  background-color: rgb(132, 218, 132);
+  font-size: 24px;
+  font-weight: bold;
+}
