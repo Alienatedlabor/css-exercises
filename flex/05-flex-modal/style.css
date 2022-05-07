@@ -69,8 +69,6 @@ button {
 }
 .bottom-buttons{
   display: flex;
-  justify-content: ;
-  align-items: ;
 }
 button.continue {
   background: royalblue;
