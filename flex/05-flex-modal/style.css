@@ -69,6 +69,7 @@ button {
 }
 .bottom-buttons{
   display: flex;
+  gap: 4px;
 }
 button.continue {
   background: royalblue;
